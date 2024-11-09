@@ -68,10 +68,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=HumbleG0d&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=lautaroballesteros0926&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     </td>
     <td>
-      <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumbleG0d&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautaroballesteros0926&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
   </tr>
 </table>
