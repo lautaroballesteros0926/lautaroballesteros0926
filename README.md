@@ -9,7 +9,7 @@
     <picture><img src="./assets/about_me.gif" width="85px" align="center"></picture>
   </p>
  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Data%20Analytics;Profesional;SQL%20&%20Python%20Practitioner&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=26" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Data%20Analytics;Profesional;SQL%20and%20Python%font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=26" />
 </p>
 </div>
 
