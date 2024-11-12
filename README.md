@@ -5,12 +5,13 @@
 </div>
 
 <div align="center">
-  <p align="center">
-    <picture><img src="./assets/about_me.gif" width="85px" align="center"></picture>
-  </p>
- <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data%20Scientist;Data%20Analytics;Profesional;SQL%20and%20Python%font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=26" />
-</p>
+  <div>
+    <img src="./assets/about_me.gif" width="85px" alt="About Me Animation">
+  </div>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&height=45&lines=Python;SQL;Data+Science;Machine+Learning;Data+Analytics" alt="Typing SVG">
+  </a>
 </div>
 
 ## Skills
