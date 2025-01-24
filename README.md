@@ -1,19 +1,7 @@
-<div>
-  <a href="#">
-    <img width="100%" height="15" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
 
-<div align="center">
-  <div>
-    <img src="./assets/about_me.gif" width="85px" alt="About Me Animation">
-  </div>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1000&pause=1000&color=00FFFF&center=true&vCenter=true&width=440&height=45&lines=Python;SQL;Data+Scientist;Machine+Learning;Data+Analytics" alt="Typing SVG">
-  </a>
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/user-attachments/assets/ebcd1255-3748-4e33-8d71-7415720647ab" width="800"/>
 </div>
-
 ## Skills
 
 <div style="display: flex; align-items: flex-start; align: center">
