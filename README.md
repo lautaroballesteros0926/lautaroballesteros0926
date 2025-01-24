@@ -6,24 +6,22 @@
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-quispe-ballesteros/) 
 
-👨‍💻 Sobre mí :
+
+
+ <div id="header" align="left">
+
+### 👨‍💻 Sobre mí :
+
+
 Apasionado de la tecnología  y un amante de las matematicas, actualmente me estoy especializando en ciencia de datos 
+   
+* 🔭 Actualmente soy Profesor Particular de Matemáticas y estoy buscando nuevos retos en el área de Data Analytics 💪 
 
-🔭 Actualmente soy Profesor Particular de Matemáticas y estoy buscando nuevos retos en el área de Data Analytics 💪
+* 🌱 Estoy estudiando :blue_book: y practicando :computer: Python y SQL, además de conocer herramientas como Scikit-learn y Power BI.
 
-🌱 Estoy estudiando :blue_book: y practicando :computer: Python y SQL, además de explorar herramientas como Scikit-learn y Power BI.
+* ❤️ Me encanta descubrir nuevas formas de automatizar tareas y analizar datos para resolver problemas
 
-❤️ Me encanta descubrir nuevas formas de automatizar tareas y analizar datos para resolver problemas
-
-📫 ¿Quieres contactar conmigo? 
-
-
-
-
-
-
-
-
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-quispe-ballesteros/)
 
 
 ## Skills
